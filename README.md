@@ -6,7 +6,7 @@
 
 **Belajar teknologi secara praktis, terstruktur, dan gratis — kapan saja, di mana saja.**
 
-[![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
@@ -54,7 +54,7 @@
 
 | Layer | Teknologi |
 |-------|-----------|
-| 🔧 Backend Framework | Laravel 10.x |
+| 🔧 Backend Framework | Laravel 11.x |
 | 🐘 Runtime | PHP 8.1+ |
 | 🎨 Frontend | Blade Templates + Tailwind CSS 3.x |
 | ⚡ JavaScript | Alpine.js 3.x |
